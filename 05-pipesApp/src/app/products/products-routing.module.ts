@@ -14,7 +14,7 @@ const routes: Routes = [
     component: NumbersPageComponent
   },
   {
-    path:'',
+    path:'uncommon',
     component: UncommonPageComponent
   },
   {
